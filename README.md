@@ -5,12 +5,12 @@
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark)](https://git.io/streak-stats#gh-light-mode-only"  alt="My GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=bjRichardLiu#gh-light-mode-only"  alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/bjRichardLiu#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark)](https://git.io/streak-stats#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
 
