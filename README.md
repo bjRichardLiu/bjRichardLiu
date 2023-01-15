@@ -14,12 +14,6 @@
 </a>
 
 
-![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/overview.svg#gh-light-mode-only)
-
-
 <!---
 - 📫 How to reach me liu3246@purdue.edu
 
