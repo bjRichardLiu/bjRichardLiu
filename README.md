@@ -4,15 +4,14 @@
 - 💞️ I’m looking to collaborate on anything~
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu#gh-light-mode-only"  alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/bjRichardLiu#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-
 
 <!---
 - 📫 How to reach me liu3246@purdue.edu
