@@ -2,6 +2,7 @@
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning CS and interested in Game Development!
 - 💞️ I’m looking to collaborate on anything~
+- Email address: ruicliu@bu.edu
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
@@ -12,7 +13,12 @@
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-![](https://komarev.com/ghpvc/?username=bjRichardLiu&color=9866c5&style=for-the-badge)
+<div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=bjRichardLiu&color=9866c5&style=for-the-badge">
+  </a>
+</div>
+
 
 <!---
 - 📫 How to reach me liu3246@purdue.edu
