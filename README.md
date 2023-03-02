@@ -12,6 +12,7 @@
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
+![](https://komarev.com/ghpvc/?username=bjRichardLiu&color=9866c5&style=for-the-badge)
 
 <!---
 - 📫 How to reach me liu3246@purdue.edu
