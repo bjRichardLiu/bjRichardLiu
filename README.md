@@ -16,11 +16,7 @@
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-<div>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=bjRichardLiu&color=9866c5&style=for-the-badge">
-  </a>
-</div>
+
 
 
 <!---
@@ -35,6 +31,11 @@
 ![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/bjRichardLiu/github-stats_public/master/generated/overview.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark)](https://git.io/streak-stats)
+<div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=bjRichardLiu&color=9866c5&style=for-the-badge">
+  </a>
+</div>
 --->
 
 <!---
