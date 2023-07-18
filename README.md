@@ -3,14 +3,16 @@
 - 🌱 I’m currently learning CS and interested in Game Development!
 - 💞️ I’m looking to collaborate on anything~
 - Email address: ruicliu@bu.edu
-<img src="https://leetcard.jacoblin.cool/bjRichardLiu?theme=light&font=Sawarabi%20Mincho&ext=heatmap" />
+
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
+  <img src="https://leetcard.jacoblin.cool/bjRichardLiu?theme=light&font=Montserrat%20Mincho&ext=heatmap" />
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu#gh-light-mode-only"  alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/bjRichardLiu#gh-dark-mode-only">
+  <img src="https://leetcard.jacoblin.cool/bjRichardLiu?theme=dark&font=Montserrat%20Mincho&ext=heatmap" />
   <img src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bjRichardLiu&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
