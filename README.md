@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning CS and interested in Game Development!
 - 💞️ I’m looking to collaborate on anything~
-- Email address: ruicliu@bu.edu
+<br>Check out more about me https://bjrichardliu.github.io/academia/
 
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
