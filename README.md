@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/bjRichardLiu#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,AAA,AA,A,B&theme=onedark />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,AAA,AA,A,B&theme=onedark" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api/top-langs/?username=bjRichardLiu&count_private=true&hide=ShaderLab,HLSL,c%23&exclude_repo=4D-Raymarching_TestBuild,github-readme-stats,github-stats_public&theme=dark#gh-dark-mode-only" />
   
