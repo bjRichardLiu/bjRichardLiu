@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=bjRichardLiu&rank=SECRET,AAA,AA,A,B&theme=flat" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=bjRichardLiu&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=flat" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=transparent&show_icons=true#gh-light-mode-only"  alt="My GitHub Stats" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api/top-langs/?username=bjRichardLiu&count_private=true&hide=MakeFile,HTML,ShaderLab,HLSL,c%23&exclude_repo=4D-Raymarching_TestBuild,github-readme-stats,github-stats_public&theme=transparent" />
   
@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/bjRichardLiu#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=bjRichardLiu&rank=SECRET,AAA,AA,A,B&theme=onedark" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=bjRichardLiu&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api?username=bjRichardLiu&count_private=true&theme=vision-friendly-dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <img height=200 align="center" src="https://github-readme-stats-bjrichardliu.vercel.app/api/top-langs/?username=bjRichardLiu&count_private=true&hide=MakeFile,HTML,ShaderLab,HLSL,c%23&exclude_repo=4D-Raymarching_TestBuild,github-readme-stats,github-stats_public&theme=dark#gh-dark-mode-only" />
   
