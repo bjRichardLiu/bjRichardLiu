@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bjRichardLiu
-- I'm currently interning @[Bambu Lab](https://github.com/bambulab) as a Graphics Algorithms Engineer
+- I interned @[Bambu Lab](https://github.com/bambulab) as a Graphics Algorithms Engineer
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning CS and interested in Computational Fabrication and Game Development!
-- 💞️ I’m looking to collaborate on anything~
+- 💞️ I’m looking to collaborate on anything
 <br>Check out more about me https://bjrichardliu.github.io/academia/
 
 
