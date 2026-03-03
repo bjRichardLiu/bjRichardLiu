@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning CS and interested in Computational Fabrication and Game Development!
 - 💞️ I’m looking to collaborate on anything
-<br>Check out more about me https://bjrichardliu.github.io/academia/
+<br>Check out more about me [https://www.richardliu.site/](https://www.richardliu.site/)
 
 
 <a href="https://github.com/bjRichardLiua#gh-light-mode-only">
